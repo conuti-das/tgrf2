@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f1f527d6
 license: GPL-2.0
+name: tgrf2
 type: industry
+url: https://github.com/conuti-das/tgrf2
 version: 6
